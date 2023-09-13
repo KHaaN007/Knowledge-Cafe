@@ -1,0 +1,77 @@
+[
+    {
+        "id": "12345",
+        "title": "John Doe's Fiction Adventure",
+        "cover": "https://i.ibb.co/RgkXpRH/1.jpg",
+        "author": "john_doe",
+        "author_img": "https://i.ibb.co/VY4PFbt/boy1.png",
+        "posted_date": "2023-09-13",
+        "reading_time": 10,
+        "hashtags": [
+            "fiction",
+            "adventure",
+            "books"
+        ],
+        "description": "Join John Doe on an exciting adventure through the world of fiction. His captivating storytelling will keep you engaged for 10 minutes of literary exploration."
+    },
+    {
+        "id": "67890",
+        "title": "Jane Smith's Romantic Novels",
+        "cover": "https://i.ibb.co/SPqg4Wp/2.png",
+        "author": "jane_smith",
+        "author_img": "https://i.ibb.co/Lr0Hb4z/boy2.jpg",
+        "posted_date": "2023-09-12",
+        "reading_time": 15,
+        "hashtags": [
+            "romance",
+            "novels",
+            "love"
+        ],
+        "description": "Embark on a romantic journey with Jane Smith as she weaves tales of love and passion. Spend 15 minutes immersed in her enchanting world of novels and romance."
+    },
+    {
+        "id": "54321",
+        "title": "Michael Jones' Sci-Fi Adventures",
+        "cover": "https://i.ibb.co/rM7MFcT/3.png",
+        "author": "michael_jones",
+        "author_img": "https://example.com/author3.jpg",
+        "posted_date": "2023-09-11",
+        "reading_time": 8,
+        "hashtags": [
+            "sciencefiction",
+            "technology",
+            "future"
+        ],
+        "description": "Explore the future with Michael Jones as he delves into the realms of science fiction and technology. Dive into his world for 8 minutes of futuristic adventures."
+    },
+    {
+        "id": "98765",
+        "title": "Sarah Adams' Thrilling Mysteries",
+        "cover": "https://i.ibb.co/BgzL7jb/4.jpg",
+        "author": "sarah_adams",
+        "author_img": "https://i.ibb.co/8x66fTd/girl1.jpg",
+        "posted_date": "2023-09-10",
+        "reading_time": 12,
+        "hashtags": [
+            "mystery",
+            "suspense",
+            "thriller"
+        ],
+        "description": "Get ready for an adrenaline rush with Sarah Adams as she crafts mysterious and suspenseful thrillers. Spend 12 minutes on the edge of your seat."
+    },
+    {
+        "id": "24680",
+        "title": "David Wilson's Enchanted Fantasy",
+        "cover": "https://i.ibb.co/rM7MFcT/3.png",
+        "author": "david_wilson",
+        "author_img": "https://i.ibb.co/1rrPT3b/girl2.jpg",
+        "posted_date": "2023-09-09",
+        "reading_time": 7,
+        "hashtags": [
+            "fantasy",
+            "magic",
+            "adventure"
+        ],
+        "description": "Join David Wilson on a magical adventure filled with fantasy and wonder. Let his storytelling transport you to enchanted realms for 7 minutes of pure escapism."
+    }
+]

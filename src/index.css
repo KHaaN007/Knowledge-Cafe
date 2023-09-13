@@ -1,3 +1,6 @@
+/* GooGle Font */
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:wght@400;500;600;700;800&family=Lato:wght@400;700;900&display=swap');
+
 button {
   border-radius: 8px;
   border: 1px solid transparent;
@@ -9,11 +12,17 @@ button {
   cursor: pointer;
   transition: border-color 0.25s;
 }
+
 button:hover {
   border-color: #646cff;
 }
+
 button:focus,
 button:focus-visible {
   outline: 4px auto -webkit-focus-ring-color;
 }
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
